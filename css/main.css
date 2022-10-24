@@ -745,11 +745,14 @@ a {
 }
 
 .main-links__item {
+  margin-bottom: 12px;
+}
+
+.main-links{
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
-  color: rgba(255, 255, 255, 0.7);
-  margin-bottom: 12px;
+  color: #ffffffb3;
 }
 
 .bottom-content {
