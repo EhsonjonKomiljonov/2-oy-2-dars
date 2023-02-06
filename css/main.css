@@ -115,10 +115,6 @@ a {
   color: rgba(255, 255, 255, 0.7);
 }
 
-.nav__link--home {
-  color: #ffffff;
-}
-
 .hero {
   position: relative;
   background-image: url("../images/hero-bgi.png");
